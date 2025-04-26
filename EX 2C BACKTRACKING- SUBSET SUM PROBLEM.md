@@ -14,8 +14,8 @@ To demonstrate that the sum of the subset of a given set is equal to the given s
 ```
 /*
 Program to implement Subset sum problem.
-Developed by: 
-Register Number:  
+Developed by: Naveen Kumar V
+Register Number:  212223220068
 */
 ```
 ```
